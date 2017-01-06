@@ -1,0 +1,5 @@
+com\radiadesign\catalina\session\RedisSessionManager.class
+com\radiadesign\catalina\session\JavaSerializer.class
+com\radiadesign\catalina\session\RedisSessionHandlerValve.class
+com\radiadesign\catalina\session\RedisSession.class
+com\radiadesign\catalina\session\Serializer.class
